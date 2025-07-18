@@ -1,0 +1,78 @@
+<mxfile host="Electron" modified="2025-07-18T13:29:10.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="NjypEYlSYqxN5Yp2ucSA" version="22.1.2" type="device">
+  <diagram name="Page-1" id="9665UuJ_onHe7NmuAsHx">
+    <mxGraphModel dx="1750" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n99qn2WGefexpnFB7fTp-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n99qn2WGefexpnFB7fTp-1" target="n99qn2WGefexpnFB7fTp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n99qn2WGefexpnFB7fTp-1" value="BẮT ĐẦU" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="477.5" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n99qn2WGefexpnFB7fTp-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n99qn2WGefexpnFB7fTp-2" target="n99qn2WGefexpnFB7fTp-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="1030" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="260" />
+              <mxPoint x="730" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n99qn2WGefexpnFB7fTp-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n99qn2WGefexpnFB7fTp-2" target="n99qn2WGefexpnFB7fTp-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n99qn2WGefexpnFB7fTp-2" value="IF GPIO_PORT == NULL" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="200" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="n99qn2WGefexpnFB7fTp-6" value="ĐÚNG" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="667.5" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n99qn2WGefexpnFB7fTp-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n99qn2WGefexpnFB7fTp-7" target="n99qn2WGefexpnFB7fTp-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n99qn2WGefexpnFB7fTp-7" value="CẤP CLOCK CHO PORT TƯƠNG ỨNG" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="417.5" y="360" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n99qn2WGefexpnFB7fTp-9" value="SAI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="537.5" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n99qn2WGefexpnFB7fTp-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n99qn2WGefexpnFB7fTp-10" target="n99qn2WGefexpnFB7fTp-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="222.5" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n99qn2WGefexpnFB7fTp-10" value="KIỂM TRA CHỨC NĂNG MODE" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="402.5" y="440" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="n99qn2WGefexpnFB7fTp-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n99qn2WGefexpnFB7fTp-12" target="n99qn2WGefexpnFB7fTp-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n99qn2WGefexpnFB7fTp-12" value="KIỂM TRA OUTPUT HAY INPUT" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="87.5" y="740" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="n99qn2WGefexpnFB7fTp-15" value="GÁN CẤU HÌNH PIN TRƯỚC ĐÓ VÀO THANH GHI" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="72.5" y="870" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n99qn2WGefexpnFB7fTp-17" value="PORT_PIN_MODE_DIO" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="110" y="630" width="167.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n99qn2WGefexpnFB7fTp-18" value="PORT_PIN_MODE_ADC" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="417.5" y="630" width="167.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n99qn2WGefexpnFB7fTp-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n99qn2WGefexpnFB7fTp-24" target="n99qn2WGefexpnFB7fTp-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n99qn2WGefexpnFB7fTp-24" value="KHỞI TẠO CẤU HÌNH MẶC ĐỊNH CHO ADC MODE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="398" y="870" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n99qn2WGefexpnFB7fTp-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.468;entryY=-0.06;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n99qn2WGefexpnFB7fTp-10" target="n99qn2WGefexpnFB7fTp-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n99qn2WGefexpnFB7fTp-26" value="THOÁT" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="488" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

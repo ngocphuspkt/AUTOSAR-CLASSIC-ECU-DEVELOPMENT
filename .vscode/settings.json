@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "std_types.h": "c",
+        "dio.h": "c",
+        "stm32f10x_tim.h": "c",
+        "stm32f10x_gpio.h": "c",
+        "stm32f10x_rcc.h": "c",
+        "port.h": "c",
+        "stm32f10x.h": "c",
+        "pincomponent.h": "c",
+        "stm32f10x_adc.h": "c",
+        "portpintype.h": "c",
+        "port_driver.h": "c",
+        "adc.h": "c",
+        "adc_standard.h": "c",
+        "stm32f10x_dac.h": "c",
+        "adc_types.h": "c"
+    }
+}
